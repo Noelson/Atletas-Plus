@@ -26,10 +26,8 @@ Sinta-se à vontade para contribuir com este projeto! Se você encontrar algum b
 
 **Agradecimentos:**
 
-Agradeço a equipe da Alura que proporcionou a criação desse projeto
-Em especial os professores
-Rafaella Ballerini
-Guilherme Lima e
+Agradeço a equipe da Alura que proporcionou a criação desse projeto,
+em especial os professores Rafaella Ballerini, Guilherme Lima e
 Luciano Martins!
 
 **Vamos juntos construir uma comunidade de amantes do esporte e da tecnologia!**
